@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\bin\Debug\ComparisonProgram.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\bin\Debug\ComparisonProgram.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\bin\Debug\ComparisonProgram.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\obj\Debug\ComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\obj\Debug\ComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\obj\Debug\ComparisonProgram.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ComparisonProgram\obj\Debug\ComparisonProgram.pdb

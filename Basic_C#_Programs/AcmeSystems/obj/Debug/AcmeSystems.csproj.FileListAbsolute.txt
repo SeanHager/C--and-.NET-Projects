@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\bin\Debug\AcmeSystems.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\bin\Debug\AcmeSystems.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\bin\Debug\AcmeSystems.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\obj\Debug\AcmeSystems.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\obj\Debug\AcmeSystems.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\obj\Debug\AcmeSystems.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\AcmeSystems\obj\Debug\AcmeSystems.pdb
