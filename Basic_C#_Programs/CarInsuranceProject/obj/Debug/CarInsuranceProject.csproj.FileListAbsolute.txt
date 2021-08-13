@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\bin\Debug\CarInsuranceProject.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\bin\Debug\CarInsuranceProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\bin\Debug\CarInsuranceProject.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\obj\Debug\CarInsuranceProject.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\obj\Debug\CarInsuranceProject.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\obj\Debug\CarInsuranceProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CarInsuranceProject\obj\Debug\CarInsuranceProject.pdb
