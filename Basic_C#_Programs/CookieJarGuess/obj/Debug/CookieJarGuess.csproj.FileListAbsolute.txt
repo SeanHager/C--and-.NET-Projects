@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\bin\Debug\CookieJarGuess.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\bin\Debug\CookieJarGuess.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\bin\Debug\CookieJarGuess.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\obj\Debug\CookieJarGuess.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\obj\Debug\CookieJarGuess.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\obj\Debug\CookieJarGuess.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\CookieJarGuess\obj\Debug\CookieJarGuess.pdb
