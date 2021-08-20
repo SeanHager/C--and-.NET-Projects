@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.pdb
