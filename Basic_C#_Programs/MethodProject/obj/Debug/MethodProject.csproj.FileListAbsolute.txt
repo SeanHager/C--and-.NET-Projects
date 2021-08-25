@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\bin\Debug\MethodProject.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\bin\Debug\MethodProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\bin\Debug\MethodProject.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\obj\Debug\MethodProject.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\obj\Debug\MethodProject.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\obj\Debug\MethodProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProject\obj\Debug\MethodProject.pdb
