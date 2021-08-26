@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\bin\Debug\MethodProjectCubed.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\bin\Debug\MethodProjectCubed.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\bin\Debug\MethodProjectCubed.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\obj\Debug\MethodProjectCubed.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\obj\Debug\MethodProjectCubed.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\obj\Debug\MethodProjectCubed.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodProjectCubed\obj\Debug\MethodProjectCubed.pdb
