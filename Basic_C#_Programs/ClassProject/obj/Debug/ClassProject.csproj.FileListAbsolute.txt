@@ -1,7 +1,0 @@
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\bin\Debug\ClassProject.exe.config
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\bin\Debug\ClassProject.exe
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\bin\Debug\ClassProject.pdb
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\obj\Debug\ClassProject.csproj.AssemblyReference.cache
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\obj\Debug\ClassProject.csproj.CoreCompileInputs.cache
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\obj\Debug\ClassProject.exe
-C:\Users\Seanbon\Desktop\Basic_C#_Programs\ClassProject\obj\Debug\ClassProject.pdb
