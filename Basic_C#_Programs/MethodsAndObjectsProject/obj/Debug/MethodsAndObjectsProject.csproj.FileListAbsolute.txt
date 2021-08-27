@@ -1,0 +1,7 @@
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\obj\Debug\MethodsAndObjectsProject.csproj.AssemblyReference.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\obj\Debug\MethodsAndObjectsProject.csproj.CoreCompileInputs.cache
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\bin\Debug\MethodsAndObjectsProject.exe.config
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\bin\Debug\MethodsAndObjectsProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\bin\Debug\MethodsAndObjectsProject.pdb
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\obj\Debug\MethodsAndObjectsProject.exe
+C:\Users\Seanbon\Desktop\Basic_C#_Programs\MethodsAndObjectsProject\obj\Debug\MethodsAndObjectsProject.pdb
