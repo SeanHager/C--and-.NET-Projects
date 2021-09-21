@@ -49,6 +49,9 @@ namespace CarInsurance.Controllers
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
             //Calculate a Quote, based on information user inputs into form, that triggers loops when certain parameters are met.
+            //Since you calculated age by using hard coded year values, (instead of calculating the age based off their birth year and the current year),
+            //this program will have to be updated every year on New Years day to maintain the correct calculations. This will be costly to maintain. 
+            //However the assignment is successful.
             if (ModelState.IsValid)
             {
                 insuree.Quote = 50; // Start with a base of $50 a month
